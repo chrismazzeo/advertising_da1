@@ -1,0 +1,47 @@
+[
+    {
+        "commerce": "Mercado Libre",
+        "date": {
+            "start": "",
+            "end": ""
+        },
+        "imagePath": "",
+        "Url": "https://www.mercadolibre.com.ar"
+    },
+    {
+        "commerce": "Adidas",
+        "date": {
+            "start": "",
+            "end": ""
+        },
+        "imagePath": "",
+        "Url": "https://www.adidas.com/"
+    },
+    {
+        "commerce": "Apple",
+        "date": {
+            "start": "",
+            "end": ""
+        },
+        "imagePath": "",
+        "Url": "https://www.apple.com"
+    },
+    {
+        "commerce": "Amazon",
+        "date": {
+            "start": "",
+            "end": ""
+        },
+        "imagePath": "",
+        "Url": "https://www.amazon.com"
+    },
+    {
+        "commerce": "AMD",
+        "date": {
+            "start": "",
+            "end": ""
+        },
+        "imagePath": "",
+        "Url": "https://www.amd.com"
+    }
+]
