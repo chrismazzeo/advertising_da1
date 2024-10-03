@@ -6,10 +6,10 @@
                 "start": "",
                 "end": ""
             },
-            "image": [
+            "imagePath": [
                 {
-                    "portraite": "ML_P.png",
-                    "landscape": "ML_L.png"
+                    "portraite": "https://github.com/chrismazzeo/advertising_da1/blob/main/ML_P.png",
+                    "landscape": "https://github.com/chrismazzeo/advertising_da1/blob/main/ML_L.png"
                 }
             ],
             "Url": "https://www.mercadolibre.com.ar"
@@ -20,10 +20,10 @@
                 "start": "",
                 "end": ""
             },
-            "image": [
+            "imagePath": [
                 {
-                    "portraite": "Adidas_L.png",
-                    "landscape": "Adidas_L.png"
+                    "portraite": "https://github.com/chrismazzeo/advertising_da1/blob/main/Adidas_L.png",
+                    "landscape": "https://github.com/chrismazzeo/advertising_da1/blob/main/Adidas_L.png"
                 }
             ],
             "Url": "https://www.adidas.com/"
@@ -34,10 +34,10 @@
                 "start": "",
                 "end": ""
             },
-            "image": [
+            "imagePath": [
                 {
-                    "portraite": "Apple_P.png",
-                    "landscape": "Apple_L.png"
+                    "portraite": "https://github.com/chrismazzeo/advertising_da1/blob/main/Apple_P.png",
+                    "landscape": "https://github.com/chrismazzeo/advertising_da1/blob/main/Apple_L.png"
                 }
             ],
             "Url": "https://www.apple.com"
@@ -48,10 +48,10 @@
                 "start": "",
                 "end": ""
             },
-            "image": [
+            "imagePath": [
                 {
-                    "portraite": "Amazon_P.png",
-                    "landscape": "Adidas_L.png"
+                    "portraite": "https://github.com/chrismazzeo/advertising_da1/blob/main/Amazon_P.png",
+                    "landscape": "https://github.com/chrismazzeo/advertising_da1/blob/main/Adidas_L.png"
                 }
             ],
             "Url": "https://www.amazon.com"
