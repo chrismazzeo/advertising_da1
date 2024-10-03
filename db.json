@@ -3,8 +3,8 @@
         {
             "commerce": "Mercado Libre",
             "date": {
-                "start": "",
-                "end": ""
+                "start": 1699018692,
+                "end": 1759498692
             },
             "imagePath": [
                 {
@@ -17,8 +17,8 @@
         {
             "commerce": "Adidas",
             "date": {
-                "start": "",
-                "end": ""
+                "start": 1699018692,
+                "end": 1759498692
             },
             "imagePath": [
                 {
@@ -31,8 +31,8 @@
         {
             "commerce": "Apple",
             "date": {
-                "start": "",
-                "end": ""
+                "start": 1730468292,
+                "end": 1759498692
             },
             "imagePath": [
                 {
@@ -45,8 +45,8 @@
         {
             "commerce": "Amazon",
             "date": {
-                "start": "",
-                "end": ""
+                "start":1730468292,
+                "end": 1759498692
             },
             "imagePath": [
                 {
