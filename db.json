@@ -6,7 +6,12 @@
                 "start": "",
                 "end": ""
             },
-            "imagePath": "",
+            "image": [
+                {
+                    "portraite": "ML_P.png",
+                    "landscape": "ML_L.png"
+                }
+            ],
             "Url": "https://www.mercadolibre.com.ar"
         },
         {
@@ -15,7 +20,12 @@
                 "start": "",
                 "end": ""
             },
-            "imagePath": "",
+            "image": [
+                {
+                    "portraite": "Adidas_L.png",
+                    "landscape": "Adidas_L.png"
+                }
+            ],
             "Url": "https://www.adidas.com/"
         },
         {
@@ -24,7 +34,12 @@
                 "start": "",
                 "end": ""
             },
-            "imagePath": "",
+            "image": [
+                {
+                    "portraite": "Apple_P.png",
+                    "landscape": "Apple_L.png"
+                }
+            ],
             "Url": "https://www.apple.com"
         },
         {
@@ -33,17 +48,13 @@
                 "start": "",
                 "end": ""
             },
-            "imagePath": "",
+            "image": [
+                {
+                    "portraite": "Amazon_P.png",
+                    "landscape": "Adidas_L.png"
+                }
+            ],
             "Url": "https://www.amazon.com"
-        },
-        {
-            "commerce": "AMD",
-            "date": {
-                "start": "",
-                "end": ""
-            },
-            "imagePath": "",
-            "Url": "https://www.amd.com"
         }
     ]
 }
